@@ -1,4 +1,4 @@
-# Codsoft
+# Codsoft Task 1
 TITANIC SURVIVAL PREDICTION
 
 Use the Titanic dataset to build a model that predicts whether a
